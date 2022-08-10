@@ -1,0 +1,39 @@
+<<<Cool Pentesting Tools>>>
+https://www.sparrowslockpicks.com/default.asp
+https://hak5.org/
+https://www.hack4.net/2017/04/build-your-own-pwnphone.html
+https://www.sparkfun.com/products/17377?src=raspberrypi
+https://github.com/thehackingsage/pwnphone
+
+<<<Learning Resources>>>
+https://app.itpro.tv/login/?redirect_to=%2Fdashboard
+https://my.ine.com/path/a223968e-3a74-45ed-884d-2d16760b8bbd
+https://pentesterlab.com/exercises/unix_07/course
+https://academy.tcm-sec.com/courses/
+https://app.itpro.tv/login/?redirect_to=%2Fdashboard
+https://kentosec.com/2019/08/04/how-to-pass-the-ejpt/
+https://www.evolvesecurity.com/academy/oscp-bootcamp
+
+<<<Careers and Bounty Programs>>>
+https://www.redstorm.io/
+https://firebounty.com/
+https://www.zerocopter.com/researchers
+https://www.yeswehack.com/career/
+https://hackenproof.com/
+https://bug-bounty.com/
+https://hackerone.com/bug-bounty-programs
+https://www.bugcrowd.com/
+https://www.synack.com/
+https://www.yeswehack.com/
+
+<<<Blue Team Resources>>>
+https://car.mitre.org/analytics/CAR-2013-05-004/
+https://github.com/aboutsecurity/blueteam_homelabs
+https://mitre-attack.github.io/attack-navigator/beta/enterprise/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2Fmitre-attack%2Fcar%2Fmaster%2Fdocs%2Fcar_attack%2Fcar_attack.json
+https://attack.mitre.org/
+https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html
+https://securityblue.team/purchase-btl1/
+https://blueteamlabs.online/login
+https://www.sans.org/cyber-security-courses/foundations/#register-now
+
+
